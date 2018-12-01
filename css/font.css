@@ -1,0 +1,96 @@
+@font-face {
+  font-family: Poppins-Regular;
+  src: url('../fonts/poppins/Poppins-Regular.ttf'); 
+}
+
+@font-face {
+  font-family: Poppins-Medium;
+  src: url('../fonts/poppins/Poppins-Medium.ttf'); 
+}
+
+@font-face {
+  font-family: Poppins-Bold;
+  src: url('../fonts/poppins/Poppins-Bold.ttf'); 
+}
+
+@font-face {
+  font-family: Poppins-SemiBold;
+  src: url('../fonts/poppins/Poppins-SemiBold.ttf'); 
+}
+
+@font-face {
+  font-family: Montserrat-Bold;
+  src: url('../fonts/montserrat/Montserrat-Bold.ttf'); 
+}
+
+@font-face {
+  font-family: Montserrat-SemiBold;
+  src: url('../fonts/montserrat/Montserrat-SemiBold.ttf'); 
+}
+
+@font-face {
+  font-family: Montserrat-Regular;
+  src: url('../fonts/montserrat/Montserrat-Regular.ttf'); 
+}
+
+@font-face{
+  font-family: Voice of the Highlander;
+  src : url('../fonts/voiceofthehighlander/Voice-of-the-Highlander.ttf');
+}
+
+@font-face {
+  font-family: Tangerine-Regular;
+  src: url('../fonts/Tangerine/Tangerine-Regular.ttf'); 
+}
+
+@font-face {
+  font-family: Tangerine-Bold;
+  src: url('../fonts/Tangerine/Tangerine-Bold.ttf'); 
+}
+
+@font-face {
+  font-family: EagleLake-Regular;
+  src: url('../fonts/Eagle_Lake/EagleLake-Regular.ttf'); 
+}
+
+.Poppins-Regular{
+  font-family: Poppins-Regular;
+  font-size: 50px;
+}
+
+.Poppins-Medium{
+  font-family: Poppins-Medium;
+  font-size: 50px;
+}
+.Poppins-Bold{
+  font-family: Poppins-Bold;
+  font-size: 50px;
+}
+.Poppins-SemiBold{
+  font-family: Poppins-SemiBold;
+  font-size: 50px;
+}
+.Montserrat-Bold{
+  font-family: Montserrat-Bold;
+  font-size: 50px;
+}
+.Montserrat-Regular{
+  font-family: Montserrat-Regular;
+  font-size: 50px;
+}
+.Voice-of-the-Highlander{
+  font-family: Voice-of-the-Highlander;
+  font-size : 30px;
+}
+.EagleLake-Regular{
+  font-family: EagleLake-Regular;
+  font-size : 48px;
+}
+.Tangerine-Regular{
+  font-family: EagleLake-Regular;
+  font-size : 48px;
+}
+.Tangerine-Bold{
+  font-family: EagleLake-Regular;
+  font-size : 48px;
+}
